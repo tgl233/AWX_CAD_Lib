@@ -1,7 +1,4 @@
-*.bak
-*~
-*.cdc
-*.zip
-*.rar
-*.dwl
-*.dwl2
+!*.dwg
+!*.dwt
+*.*
+
